@@ -2,25 +2,25 @@
 
 ## Pharmaceutical Sales & Commercial Performance Analytics
 
-MediCore Pharma Analytics is an interactive business intelligence dashboard built using **Python, Pandas, Matplotlib, and Streamlit** to analyze pharmaceutical sales performance, revenue trends, profitability, product performance, market distribution, and sales representative effectiveness.
+MediCore Pharma Analytics is an interactive business intelligence dashboard developed using **Python, Pandas, Matplotlib, and Streamlit** to analyze pharmaceutical sales performance, revenue trends, profitability, product performance, market distribution, and sales representative effectiveness.
 
-The project demonstrates an end-to-end analytics workflow, including data cleaning, exploratory data analysis, KPI development, visualization, and business insight generation.
+The project demonstrates an end-to-end analytics workflow including data cleaning, exploratory data analysis, KPI development, visualization, and business insight generation.
 
 ---
 
 # Project Overview
 
-Pharmaceutical companies generate large volumes of commercial data across products, regions, customers, and sales teams. This dashboard transforms raw transaction data into actionable business insights for decision-making.
+This dashboard transforms pharmaceutical transaction data into actionable business insights.
 
-The dashboard provides:
+Key analysis areas:
 
 - Revenue and profitability analysis
 - Product performance evaluation
 - Country and market comparison
-- Sales representative performance tracking
+- Sales representative performance
 - Customer segment analysis
-- Year-over-year business growth analysis
-- Interactive filtering capabilities
+- Year-over-year growth analysis
+- Interactive filtering
 
 ---
 
@@ -28,7 +28,7 @@ The dashboard provides:
 
 ## Dashboard Overview
 
-![Dashboard Overview](images/dashboard/dashboard_overview.png)
+![Dashboard Overview](images%20dashboard/dashboard_overview.png)
 
 ---
 
@@ -37,11 +37,12 @@ The dashboard provides:
 The dashboard analyzes revenue contribution across products and markets.
 
 Key insights:
+
 - GlycoCare is one of the strongest revenue-generating products.
 - Germany represents the strongest performing market.
 - Product and regional performance varies significantly.
 
-![Revenue by Product and Country](images/dashboard/revenue_product_country.png)
+![Revenue by Product and Country](images%20dashboard/revenue_product_country.png)
 
 ---
 
@@ -49,20 +50,21 @@ Key insights:
 
 Revenue trends are analyzed over time to identify fluctuations and performance patterns.
 
-![Monthly Revenue Trend](images/dashboard/monthly_revenue_trend.png)
+![Monthly Revenue Trend](images%20dashboard/monthly_revenue_trend.png)
 
 ---
 
-## Product Contribution & Year-over-Year Analysis
+## Year-over-Year Revenue and Product Contribution
 
 The dashboard compares yearly performance and identifies products driving business growth.
 
 Key findings:
-- Overall revenue increased approximately 3.2% from 2024 to 2025.
+
+- Revenue increased approximately 3.2% from 2024 to 2025.
 - Immunexa showed the strongest year-over-year growth.
 - CardioMax experienced the largest revenue decline.
 
-![Yearly Revenue and Product Contribution](images/dashboard/yearly_revenue_product_share.png)
+![Yearly Revenue and Product Contribution](images%20dashboard/yearly_revenue_product_share.png)
 
 ---
 
@@ -71,11 +73,12 @@ Key findings:
 Profitability metrics are analyzed using gross profit and profit margin comparisons.
 
 Insights:
-- GlycoCare generated the highest gross profit.
-- GastroRelief demonstrated the highest profit margin.
-- Product profitability varies across the portfolio.
 
-![Profit Analysis](images/dashboard/profit_analysis.png)
+- GlycoCare generated the highest gross profit.
+- GastroRelief demonstrated strong profitability.
+- Product margins vary across the portfolio.
+
+![Profit Analysis](images%20dashboard/profit_analysis.png)
 
 ---
 
@@ -83,25 +86,23 @@ Insights:
 
 Sales team performance is evaluated based on revenue contribution.
 
-The dashboard identifies top-performing sales representatives and compares commercial performance.
-
-![Sales Representative Performance](images/dashboard/sales_representative_performance.png)
+![Sales Representative Performance](images%20dashboard/sales_representative_performance.png)
 
 ---
 
 ## Customer Segment Analysis
 
-Customer segments are analyzed to understand revenue contribution from different customer groups.
+Customer groups are analyzed to understand revenue contribution.
 
-![Customer Segment Analysis](images/dashboard/customer_segment_analysis.png)
+![Customer Segment Analysis](images%20dashboard/customer_segment_analysis.png)
 
 ---
 
 ## Business Insights
 
-The dashboard summarizes key findings from the analysis.
+The dashboard summarizes important commercial findings.
 
-![Business Insights](images/dashboard/business_insights.png)
+![Business Insights](images%20dashboard/business_insights.png)
 
 ---
 
@@ -110,42 +111,122 @@ The dashboard summarizes key findings from the analysis.
 ## Product Performance
 
 - GlycoCare and CardioMax are major revenue contributors.
-- Immunexa achieved the highest growth between 2024 and 2025.
-- CardioMax showed a significant decline requiring further investigation.
-- Dermacare and GastroRelief showed positive growth trends.
+- Immunexa achieved the strongest growth.
+- CardioMax showed a significant decline.
+- Dermacare and GastroRelief demonstrated positive growth.
 
 ## Market Performance
 
 - Germany is the strongest overall market.
-- Belgium represents a lower-performing market compared with other regions.
-- Market performance differs considerably across countries.
+- Belgium represents a lower-performing market.
+- Regional performance differs considerably.
 
 ## Overall Performance
 
 - Revenue increased from 2024 to 2025.
-- Business performance remains positive with mixed product-level trends.
-- Monthly revenue shows noticeable fluctuations throughout the period.
+- Business performance remains positive with mixed product trends.
+- Monthly revenue shows fluctuations throughout the period.
 
 ---
 
 # Technology Stack
 
-### Programming Language
+## Programming
 - Python
 
-### Data Analysis
+## Data Analysis
 - Pandas
 - NumPy
 
-### Data Visualization
+## Visualization
 - Matplotlib
 - Streamlit
 
-### Development Tools
+## Tools
 - Jupyter Notebook
-- Visual Studio Code
+- VS Code
 - Git & GitHub
 
 ---
 
 # Project Structure
+MediCore_Pharma_Analytics/
+
+│
+├── app.py
+├── README.md
+├── requirements.txt
+│
+├── data/
+│ └── cleaned/
+│ └── sales_analytics_cleaned.csv
+│
+├── notebooks/
+│ └── 01_data_quality_assessment.ipynb
+│
+├── images dashboard/
+│ ├── dashboard_overview.png
+│ ├── revenue_product_country.png
+│ ├── monthly_revenue_trend.png
+│ ├── yearly_revenue_product_share.png
+│ ├── profit_analysis.png
+│ ├── sales_representative_performance.png
+│ ├── customer_segment_analysis.png
+│ └── business_insights.png
+│
+└── scripts/
+
+
+---
+
+# Running the Dashboard Locally
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Rashi-88/MediCore-Pharma-Analytics.git
+
+Navigate into the project:
+
+cd MediCore-Pharma-Analytics
+
+Install dependencies:
+
+pip install -r requirements.txt
+
+Run Streamlit:
+
+streamlit run app.py
+Dataset
+
+The dataset contains pharmaceutical sales transactions including:
+
+Transaction information
+Product details
+Customer information
+Geographic markets
+Sales representative data
+Revenue and profitability metrics
+
+Dataset size:
+
+15,000 transactions
+Multiple products
+Multiple European markets
+Multiple customer segments
+Future Improvements
+
+Possible extensions:
+
+Interactive Plotly visualizations
+Cloud deployment
+Automated reporting
+Predictive analytics models
+Author
+
+Rashi Malghe
+
+M.Sc. Digital Health & Data Science
+
+GitHub:
+https://github.com/Rashi-88
