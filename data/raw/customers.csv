@@ -1,0 +1,121 @@
+Customer_ID,Customer_Name,Customer_Type,Region_ID,Customer_Segment
+C001,Health Clinic Belgium 001,Clinic,R06,Medium
+C002,HealthPlus Pharmacy Belgium 002,Pharmacy,R06,Large
+C003,City Pharmacy Italy 003,Pharmacy,R03,Large
+C004,MediCare Pharmacy Spain 004,Pharmacy,R04,Small
+C005,Regional Medical Center Spain 005,Hospital,R04,Small
+C006,MediCare Pharmacy Italy 006,Pharmacy,R03,Medium
+C007,Regional Medical Center France 007,Hospital,R02,Large
+C008,Family Clinic Netherlands 008,Clinic,R05,Medium
+C009,Health Clinic Italy 009,Clinic,R03,Medium
+C010,University Hospital Spain 010,Hospital,R04,Large
+C011,MediCare Pharmacy Italy 011,Pharmacy,R03,Medium
+C012,MediCare Pharmacy Germany 012,Pharmacy,R01,Medium
+C013,University Hospital Germany 013,Hospital,R01,Large
+C014,University Hospital Italy 014,Hospital,R03,Medium
+C015,Regional Medical Center Belgium 015,Hospital,R06,Large
+C016,Central Hospital Belgium 016,Hospital,R06,Medium
+C017,Specialist Clinic Germany 017,Clinic,R01,Medium
+C018,Specialist Clinic Italy 018,Clinic,R03,Large
+C019,Central Hospital Italy 019,Hospital,R03,Small
+C020,University Hospital Netherlands 020,Hospital,R05,Medium
+C021,City Pharmacy Belgium 021,Pharmacy,R06,Medium
+C022,University Hospital Germany 022,Hospital,R01,Medium
+C023,University Hospital Spain 023,Hospital,R04,Large
+C024,Health Clinic Italy 024,Clinic,R03,Medium
+C025,Family Clinic Italy 025,Clinic,R03,Small
+C026,MediCare Pharmacy France 026,Pharmacy,R02,Medium
+C027,Family Clinic Germany 027,Clinic,R01,Medium
+C028,Central Hospital Netherlands 028,Hospital,R05,Medium
+C029,Family Clinic Spain 029,Clinic,R04,Small
+C030,MediCare Pharmacy Italy 030,Pharmacy,R03,Medium
+C031,HealthPlus Pharmacy Germany 031,Pharmacy,R01,Large
+C032,University Hospital Netherlands 032,Hospital,R05,Medium
+C033,Central Hospital France 033,Hospital,R02,Large
+C034,University Hospital France 034,Hospital,R02,Small
+C035,University Hospital Belgium 035,Hospital,R06,Medium
+C036,Family Clinic France 036,Clinic,R02,Medium
+C037,Regional Medical Center Italy 037,Hospital,R03,Medium
+C038,Specialist Clinic Netherlands 038,Clinic,R05,Medium
+C039,University Hospital Spain 039,Hospital,R04,Medium
+C040,HealthPlus Pharmacy Spain 040,Pharmacy,R04,Large
+C041,Health Clinic Italy 041,Clinic,R03,Large
+C042,University Hospital France 042,Hospital,R02,Medium
+C043,City Pharmacy Germany 043,Pharmacy,R01,Small
+C044,Regional Medical Center Belgium 044,Hospital,R06,Small
+C045,Central Hospital Belgium 045,Hospital,R06,Medium
+C046,Specialist Clinic Spain 046,Clinic,R04,Small
+C047,Family Clinic Belgium 047,Clinic,R06,Medium
+C048,University Hospital Spain 048,Hospital,R04,Small
+C049,Central Hospital France 049,Hospital,R02,Medium
+C050,Health Clinic Belgium 050,Clinic,R06,Small
+C051,Health Clinic Belgium 051,Clinic,R06,Medium
+C052,Family Clinic Italy 052,Clinic,R03,Medium
+C053,University Hospital Italy 053,Hospital,R03,Small
+C054,Family Clinic Italy 054,Clinic,R03,Large
+C055,Family Clinic Germany 055,Clinic,R01,Large
+C056,City Pharmacy Netherlands 056,Pharmacy,R05,Small
+C057,Central Hospital Germany 057,Hospital,R01,Small
+C058,MediCare Pharmacy France 058,Pharmacy,R02,Large
+C059,Central Hospital Belgium 059,Hospital,R06,Large
+C060,Regional Medical Center Germany 060,Hospital,R01,Medium
+C061,MediCare Pharmacy Belgium 061,Pharmacy,R06,Large
+C062,MediCare Pharmacy Belgium 062,Pharmacy,R06,Small
+C063,Central Hospital Netherlands 063,Hospital,R05,Small
+C064,University Hospital Germany 064,Hospital,R01,Medium
+C065,Specialist Clinic Spain 065,Clinic,R04,Medium
+C066,Regional Medical Center Belgium 066,Hospital,R06,Medium
+C067,University Hospital Germany 067,Hospital,R01,Large
+C068,Specialist Clinic Netherlands 068,Clinic,R05,Medium
+C069,Health Clinic France 069,Clinic,R02,Medium
+C070,Regional Medical Center Spain 070,Hospital,R04,Large
+C071,Health Clinic France 071,Clinic,R02,Large
+C072,HealthPlus Pharmacy Italy 072,Pharmacy,R03,Small
+C073,HealthPlus Pharmacy Netherlands 073,Pharmacy,R05,Medium
+C074,HealthPlus Pharmacy Belgium 074,Pharmacy,R06,Small
+C075,University Hospital France 075,Hospital,R02,Large
+C076,Health Clinic Belgium 076,Clinic,R06,Large
+C077,City Pharmacy Belgium 077,Pharmacy,R06,Large
+C078,Regional Medical Center France 078,Hospital,R02,Large
+C079,Regional Medical Center Belgium 079,Hospital,R06,Medium
+C080,Central Hospital Spain 080,Hospital,R04,Large
+C081,Central Hospital Netherlands 081,Hospital,R05,Large
+C082,HealthPlus Pharmacy Italy 082,Pharmacy,R03,Medium
+C083,City Pharmacy Netherlands 083,Pharmacy,R05,Small
+C084,Regional Medical Center Netherlands 084,Hospital,R05,Large
+C085,Central Hospital Belgium 085,Hospital,R06,Medium
+C086,University Hospital Belgium 086,Hospital,R06,Medium
+C087,University Hospital Belgium 087,Hospital,R06,Small
+C088,Family Clinic Germany 088,Clinic,R01,Large
+C089,Health Clinic Belgium 089,Clinic,R06,Small
+C090,Health Clinic France 090,Clinic,R02,Medium
+C091,Regional Medical Center Spain 091,Hospital,R04,Medium
+C092,Specialist Clinic France 092,Clinic,R02,Medium
+C093,HealthPlus Pharmacy Netherlands 093,Pharmacy,R05,Medium
+C094,City Pharmacy Germany 094,Pharmacy,R01,Medium
+C095,City Pharmacy Spain 095,Pharmacy,R04,Medium
+C096,City Pharmacy Netherlands 096,Pharmacy,R05,Medium
+C097,Family Clinic France 097,Clinic,R02,Small
+C098,University Hospital Belgium 098,Hospital,R06,Medium
+C099,MediCare Pharmacy Belgium 099,Pharmacy,R06,Small
+C100,HealthPlus Pharmacy Spain 100,Pharmacy,R04,Medium
+C101,Regional Medical Center France 101,Hospital,R02,Medium
+C102,Regional Medical Center Spain 102,Hospital,R04,Medium
+C103,City Pharmacy Spain 103,Pharmacy,R04,Large
+C104,Regional Medical Center Spain 104,Hospital,R04,Small
+C105,MediCare Pharmacy France 105,Pharmacy,R02,Small
+C106,Health Clinic Belgium 106,Clinic,R06,Medium
+C107,University Hospital Netherlands 107,Hospital,R05,Medium
+C108,City Pharmacy France 108,Pharmacy,R02,Medium
+C109,HealthPlus Pharmacy Italy 109,Pharmacy,R03,Small
+C110,MediCare Pharmacy Belgium 110,Pharmacy,R06,Medium
+C111,Regional Medical Center Germany 111,Hospital,R01,Large
+C112,City Pharmacy Netherlands 112,Pharmacy,R05,Medium
+C113,MediCare Pharmacy Belgium 113,Pharmacy,R06,Medium
+C114,Health Clinic Netherlands 114,Clinic,R05,Medium
+C115,University Hospital Netherlands 115,Hospital,R05,Large
+C116,Family Clinic Belgium 116,Clinic,R06,Medium
+C117,HealthPlus Pharmacy Netherlands 117,Pharmacy,R05,Medium
+C118,Health Clinic Belgium 118,Clinic,R06,Medium
+C119,Specialist Clinic Germany 119,Clinic,R01,Small
+C120,Regional Medical Center Belgium 120,Hospital,R06,Small

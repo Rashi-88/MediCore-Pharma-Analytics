@@ -1,0 +1,7 @@
+Region_ID,Country,Market_Region,Currency
+R01,Germany,DACH,EUR
+R02,France,Western Europe,EUR
+R03,Italy,Southern Europe,EUR
+R04,Spain,Southern Europe,EUR
+R05,Netherlands,Benelux,EUR
+R06,Belgium,Benelux,EUR

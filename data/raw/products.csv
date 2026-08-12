@@ -1,0 +1,9 @@
+Product_ID,Product_Name,Therapeutic_Area,Launch_Year,Unit_Cost
+P001,CardioMax,Cardiovascular,2022,22.0
+P002,GlycoCare,Diabetes,2023,31.0
+P003,Respira,Respiratory,2021,18.0
+P004,NeuroVance,Neurology,2022,27.0
+P005,Immunexa,Immunology,2024,36.0
+P006,GastroRelief,Gastroenterology,2021,14.0
+P007,OsteoPlus,Bone & Joint,2023,24.0
+P008,Dermacare,Dermatology,2024,16.0
